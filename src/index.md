@@ -109,6 +109,7 @@ byte-granularity cut points.
 [Buildroot](https://buildroot.org);
 [CentOS Stream](https://gitlab.com/redhat/centos-stream/src/kernel/centos-stream-9/-/commit/37d0627c30a55e4159f00af2d02b5d64b1dc98e8);
 [Chromium OS](https://chromium-review.googlesource.com/c/chromiumos/platform/crosutils/+/5125177);
+[Container-Optimized OS](https://cos-review.googlesource.com/c/third_party/kernel/+/167665);
 [Debian](https://packages.debian.org/sid/erofs-utils);
 [Deepin Linux](https://github.com/deepin-community/erofs-utils);
 [Fedora](https://packages.fedoraproject.org/pkgs/erofs-utils/erofs-utils);
